@@ -6,6 +6,7 @@ function App() {
     <>
     <div>
       <h1>MUI table</h1>
+      <h2>Data grid</h2>
     </div>
     </>
   );
