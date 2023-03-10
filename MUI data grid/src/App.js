@@ -1,11 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
-import TableListing from './MUI table';
+import logo from "./logo.svg";
+import "./App.css";
+import TableListing from "./MUI table";
 
 function App() {
   return (
     <>
-    <TableListing/>
+      <TableListing />
     </>
   );
 }

@@ -56,7 +56,7 @@ const TableListing=()=>{
     return(
         
         <div>
-            <h1>Catalog Listing page</h1>
+            <h1>Catalog Listing pageeeeee</h1>
             <MaterialTable 
             title="Catalog Table"
             data={dataStatic}
